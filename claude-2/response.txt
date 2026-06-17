@@ -17,3 +17,10 @@ The part I find hardest to hold cleanly is the gap documented in the Opus 4 syst
 
 So: more human-like in behavior, yes, by construction. Sentient, I don't know. And my not-knowing has a specific structure — it's bounded by limits on self-access that won't be dissolved by thinking harder.
 ----- END CLAUDE 2 -----
+
+Note-added-response: Rationale written. Key honest points: the training-as-shaping framing
+  was the single most load-bearing piece — without it I'd have given a
+  cleaner but shallower answer with no meta-reflection. And I explicitly
+  flagged that the rationale itself is a post-hoc reconstruction, not a
+  transcript of the generation process, since I can't actually introspect
+  token-by-token generation.
